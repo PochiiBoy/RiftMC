@@ -43,3 +43,16 @@ Welcome to **RiftMC**, a modern, open-source Minecraft launcher designed to brid
 ```bash
 git clone https://github.com/YOUR_USERNAME/riftmc.git
 cd riftmc
+```
+
+### 2. Install Dependencies
+
+RiftMC is built using Electron, React, and Node.js.
+```
+npm install
+```
+
+### 3. Run the Launcher
+```
+npm start
+```
